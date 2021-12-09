@@ -19,5 +19,5 @@ using :
 The result shows the logistic regression model is the best with AUC 98%
 
 
-And now we have the experience to use the knowledge i had from this course to apply it
+And now i  have the experience to use the knowledge i had from this course to apply it
 to any real-world problem.

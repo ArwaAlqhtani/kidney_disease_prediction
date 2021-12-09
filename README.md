@@ -8,8 +8,8 @@ UCI Machine Learning Repository has a dataset that contains 25 attributes that c
 predict CKD two months earlier
 
 So as part of the CPIS490 - Big Data course at king Abdulaziz university 
-We used our knowledge from this course to apply 3 different classification algorithms to predict whether the
-person will develop a CKD or not. 
+We used our knowledge from this course to apply 3 different classification algorithms using R language 
+to predict whether the person will develop a CKD or not, 
 
 using : 
 1-Regression method
